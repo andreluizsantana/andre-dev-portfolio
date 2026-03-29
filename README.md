@@ -10,7 +10,7 @@ Personal portfolio built with Next.js, TypeScript and Tailwind CSS.
 
 ## Live
 
-[andre-dev-portfolio.vercel.app](https://andre-dev-portfolio.vercel.app)
+[andre-dev-portfolio.vercel.app](https://andreluiz-dev.vercel.app/)
 
 ## Run locally
 ```bash

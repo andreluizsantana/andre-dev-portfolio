@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "André {...} -DevLog",
+  title: "André Luiz - DevLog",
   description: "A personal devlog by André, sharing insights, projects, and experiences in software development.",
 };
 

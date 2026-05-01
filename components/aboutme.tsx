@@ -50,10 +50,14 @@ const Aboutme = () => {
           </p>
 
           <p className="text-gray-400 text-sm leading-6 border-l-2 border-gray-600 pl-3 mb-4">
-            Desenvolvedor backend com foco em Java, orientação a objetos e
-            fundamentos de engenharia de software. Busco construir sistemas bem
-            estruturados, compreendendo o funcionamento interno antes de usar
-            abstrações. Em constante evolução através de estudo e projetos reais.
+          Desenvolvedor Backend especialista no ecossistema Java e Spring Boot, focado na construção de sistemas 
+          escaláveis e bem estruturados. Minha abordagem de engenharia valoriza a compreensão profunda das ferramentas 
+          e da engrenagem interna antes de aplicar abstrações, garantindo total controle sobre a qualidade e a performance do software.
+          Possuo experiência prática no design de arquiteturas limpas e APIs RESTful resilientes, implementando desde segurança 
+          stateless complexa (JWT e filtros customizados) auditoria de dados e persistência eficiente com JPA/Hibernate. 
+          Aplico padrões rigorosos de desenvolvimento, como a segregação estrita de DTOs, mapeamento de entidades otimizado 
+          e tratamento global de exceções. Movido pela disciplina e pelo estudo contínuo, busco projetar soluções de backend 
+          robustas que resolvam problemas de negócios de forma definitiva, agregando estabilidade técnica a equipes de alto desempenho.
           </p>
 
           <div className="flex flex-wrap justify-center md:justify-start gap-1.5">
